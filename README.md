@@ -1,0 +1,1 @@
+Thousands of Delphi tips and tricks published in several free programs over the years.
